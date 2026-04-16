@@ -1,4 +1,6 @@
+
 # Game rắn săn mồi trên điện thoại Nokia(Snake)
+#Dự án Snake Game
 # Mô tả
 - Game rắn săn mồi được viết bằng ngôn ngữ lập trình C.
 - Thư viện sử dụng `winbgim.h`
