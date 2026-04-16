@@ -226,7 +226,11 @@ void classic(){
 }
 
 void drawSnake (){
+
 	setfillstyle (1,15);
+
+	setfillstyle (1,4);
+
 	int count = 0;
 	for (int i = 0;count < snakeLength;i++){
 			drawPoint(snake[i].x, snake[i].y,5);
